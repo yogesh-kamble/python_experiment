@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Python Experiment
 #
 # This config file is meant for settings that affect your whole blog.
 #
@@ -11,8 +11,8 @@ description: This is where the description of your site will go. You should chan
 github_username: jph00
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: yogesh.kamble102@gmail.com
+twitter_username: yogesh605
 
 # Set this to true to get LaTeX math equation support
 use_math:
