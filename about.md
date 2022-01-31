@@ -1,4 +1,5 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am Yogesh Kamble. Software Engineer by Profession and Did BE(IT) from Pune University.
+I am creating this site to write my experiment which I do for learning with Python or any other language.
 
