@@ -22,7 +22,7 @@ google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 remote_theme: pages-themes/modernist@v0.2.0
-theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
   - jekyll-gist
